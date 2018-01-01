@@ -207,7 +207,7 @@ public class atmSederhana {
             System.out.print("Masukan pin > ");
             int pin = input.nextInt();
             
-            // sialahkan ganti string "novan" dan int 153271 sesuai dengan keinginan kawan kawan.
+            // silahkan ganti string "novan" dan int 153271 sesuai dengan keinginan kawan kawan.
             if ("novan".equals(username) && pin==153271) {
                 menu();
             }
